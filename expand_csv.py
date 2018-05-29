@@ -1,6 +1,5 @@
 import csv
 
-
 CSV_FILE = 'csv.csv'
 NEW_CSV_FILE = 'csv_new.csv'
 COMPANY_TYPES = [
